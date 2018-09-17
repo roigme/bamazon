@@ -22,17 +22,18 @@ This portion of the Bamazon app is dedicated to the customer "shopping" experien
 
 ### App in motion
 
-![alt text](/readmeimgs/bamazonhome.png)
 #### The initial Screen and item selection.
+![alt text](/readmeimgs/bamazonhome.png)
 
-![alt text](/readmeimgs/bamazoneselect.png)
 #### The User selects an item and is prompted to enter a quantity
+![alt text](/readmeimgs/bamazoneselect.png)
 
-![alt text](/readmeimgs/bamazoncheckout.png)
 #### If the Quantity is valid the user is given the total and that total is removed from stock
+![alt text](/readmeimgs/bamazoncheckout.png)
 
-![alt text](/readmeimgs/bamazonerr.png)
 #### Here we see the updated total and the error and loop if the user enters more than in stock (note a seperate error pops if a number is not entered)
+![alt text](/readmeimgs/bamazonerr.png)
+
 
 
 
