@@ -25,7 +25,7 @@ This portion of the Bamazon app is dedicated to the customer "shopping" experien
 ![alt text](/readmeimgs/bamazonhome.png)
 #### The initial Screen and item selection.
 
-![alt text](/readmeimgs/bamazonselection.png)
+![alt text](/readmeimgs/bamazonselect.png)
 #### The User selects an item and is prompted to enter a quantity
 
 ![alt text](/readmeimgs/bamazoncheckout.png)
