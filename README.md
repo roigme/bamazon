@@ -15,9 +15,9 @@ This portion of the Bamazon app is dedicated to the customer "shopping" experien
 
 ### Still to do
 
-- [] Allow selection of multiple items
-- [] Create a true checkout section, prompt the user if they are done shopping after selecting quantity
-- [] Shopping Cart
+- [ ] Allow selection of multiple items
+- [ ] Create a true checkout section, prompt the user if they are done shopping after selecting quantity
+- [ ] Shopping Cart
 
 
 ### App in motion
